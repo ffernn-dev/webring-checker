@@ -1,0 +1,922 @@
+[
+    {
+        "name": "bucketfish",
+        "url": "https://bucketfish.me",
+        "status": "Valid"
+    },
+    {
+        "name": "jmibo",
+        "url": "https://jmibo.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "brisray",
+        "url": "https://brisray.com/",
+        "status": "Valid"
+    },
+    {
+        "name": "Fern",
+        "url": "https://ffernn.me/",
+        "status": "Valid"
+    },
+    {
+        "name": "microsynthera",
+        "url": "https://microsynthera.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "O2C",
+        "url": "https://owencompher.me",
+        "status": "Invalid"
+    },
+    {
+        "name": "Whey_Isolate",
+        "url": "https://whey-isolate.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "freewheelingace",
+        "url": "https://kyubinbrainrot.carrd.co/",
+        "status": "Valid"
+    },
+    {
+        "name": "Bits",
+        "url": "https://bitsdev.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "motan",
+        "url": "https://motan.gay",
+        "status": "Valid"
+    },
+    {
+        "name": "Obspogon",
+        "url": "https://obspogon.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "ilo Kali",
+        "url": "https://ilokali.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "asnev",
+        "url": "https://asnev.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "stickertime",
+        "url": "https://stickertime.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "44nifty",
+        "url": "https://44nifty.com",
+        "status": "Valid"
+    },
+    {
+        "name": "heav",
+        "url": "https://heav.mondecitronne.com/",
+        "status": "Valid"
+    },
+    {
+        "name": "munvoseli",
+        "url": "https://munvoseli.github.io/",
+        "status": "Valid"
+    },
+    {
+        "name": "chii",
+        "url": "https://chiitopia.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Fox",
+        "url": "https://empiressmp.gay/",
+        "status": "Invalid"
+    },
+    {
+        "name": "mochaspen",
+        "url": "https://aspenland.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "alisonc",
+        "url": "https://alisonc.net/",
+        "status": "Valid"
+    },
+    {
+        "name": "Rain",
+        "url": "https://rainmirage.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "foreverliketh.is",
+        "url": "https://foreverliketh.is/",
+        "status": "Valid"
+    },
+    {
+        "name": "Gray",
+        "url": "https://graystea.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "juette",
+        "url": "https://mothcore.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Tsuki",
+        "url": "https://tsk.bearblog.dev/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Epic",
+        "url": "https://epic1.neocities.org/",
+        "status": "Alert Text: None\nMessage: Unexpected prompt dialog detected. Performed handler \"dismiss\"\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nUnexpectedAlertOpenError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:800:5\nGeckoDriver.prototype._handleUserPrompts@chrome://remote/content/marionette/driver.sys.mjs:2962:11\n"
+    },
+    {
+        "name": "Vaea V",
+        "url": "https://itsvaeav.nekoweb.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Ampersandia",
+        "url": "https://ampersandia.net/",
+        "status": "Valid"
+    },
+    {
+        "name": "sus",
+        "url": "https://sus.fr/",
+        "status": "Invalid"
+    },
+    {
+        "name": "screamingegg",
+        "url": "https://screamingegg.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "nucleus",
+        "url": "https://nucleus.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "rwx4096",
+        "url": "https://rwx4096.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "soopyc",
+        "url": "https://soopy.moe/",
+        "status": "Valid"
+    },
+    {
+        "name": "isopod",
+        "url": "https://isopod.cool/",
+        "status": "Valid"
+    },
+    {
+        "name": "Hyena Network",
+        "url": "https://hyena.network/geocity/",
+        "status": "Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//hyena.network/geocity/&c=UTF-8&d=The%20connection%20to%20hyena.network%20was%20interrupted%20while%20the%20page%20was%20loading.\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nUnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:832:5\ncheckReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24\nonNavigation@chrome://remote/content/marionette/navigate.sys.mjs:343:39\nemit@resource://gre/modules/EventEmitter.sys.mjs:148:20\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25\n"
+    },
+    {
+        "name": "amuffin",
+        "url": "https://amuffin.is-a.dev",
+        "status": "Valid"
+    },
+    {
+        "name": "AKBatten",
+        "url": "https://akbatten.com",
+        "status": "Valid"
+    },
+    {
+        "name": "lipamanka",
+        "url": "https://lipamanka.gay/",
+        "status": "Valid"
+    },
+    {
+        "name": "Zagura",
+        "url": "https://zagura.one",
+        "status": "Valid"
+    },
+    {
+        "name": "tarraxahum",
+        "url": "https://tarraxahum.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "kebokyo",
+        "url": "https://eleboog.com",
+        "status": "Valid"
+    },
+    {
+        "name": "ORION \u2606",
+        "url": "https://orion-overdrive.neocities.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "GodNinja69",
+        "url": "https://gn69.neocities.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "The Cozy Cat",
+        "url": "https://www.thecozy.cat/",
+        "status": "Valid"
+    },
+    {
+        "name": "Daryl Sun",
+        "url": "https://blog.darylsun.page/",
+        "status": "Valid"
+    },
+    {
+        "name": "NonGMOTrash",
+        "url": "https://nongmotrash.github.io/",
+        "status": "Valid"
+    },
+    {
+        "name": "milliewebby",
+        "url": "https://milliewebby.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Veyther",
+        "url": "https://veyther.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Pixel Safari",
+        "url": "https://pixelsafari.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Ema",
+        "url": "https://emmabelotti.neocities.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "etbcor",
+        "url": "https://etbcor.com/",
+        "status": "Valid"
+    },
+    {
+        "name": "Streamm",
+        "url": "https://streamm-pandaroux.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Suntooth",
+        "url": "https://suntooth.neocities.org/",
+        "status": "Message: Navigation timed out after 300000 ms\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nTimeoutError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:740:5\nbail@chrome://remote/content/marionette/sync.sys.mjs:211:19\n"
+    },
+    {
+        "name": "H\u00f6llenreiter",
+        "url": "https://hollenreiter.neocities.org",
+        "status": "Message: The element with the reference e8c29f39-7043-41af-833d-d89d895df1ce is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nStaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:725:5\ngetKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20\ncloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:53:52\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:53:25\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\njson.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:73:30\n"
+    },
+    {
+        "name": "centiskor.ch",
+        "url": "https://centiskor.ch/",
+        "status": "Message: The element with the reference 60abc063-f86e-4b3d-805b-a037a8814572 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nStaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:725:5\ngetKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20\ncloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:53:52\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:53:25\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\njson.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:73:30\n"
+    },
+    {
+        "name": "Amyot",
+        "url": "https://temaisgame.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "lime360",
+        "url": "https://lime360.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "amby",
+        "url": "https://ambylastname.xyz/",
+        "status": "Valid"
+    },
+    {
+        "name": "ara",
+        "url": "https://mynameisashllee.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "4nf95q643hf8wy4987fqn",
+        "url": "https://tetrakis.flounder.online/",
+        "status": "Valid"
+    },
+    {
+        "name": "swiftyshq",
+        "url": "https://swiftyshq.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "cranknet",
+        "url": "https://cranknet.com/",
+        "status": "Valid"
+    },
+    {
+        "name": "bacon",
+        "url": "https://bestbaconhair.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Aio",
+        "url": "https://theaio.neocities.org/main",
+        "status": "Valid"
+    },
+    {
+        "name": "bfc",
+        "url": "https://baccyflap.com/",
+        "status": "Valid"
+    },
+    {
+        "name": "freya",
+        "url": "https://freya.cat",
+        "status": "Invalid"
+    },
+    {
+        "name": "cajeck",
+        "url": "https://cajecks-lair.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "crystal",
+        "url": "https://crystal.tilde.institute",
+        "status": "Valid"
+    },
+    {
+        "name": "censorine",
+        "url": "https://censorine.com",
+        "status": "Valid"
+    },
+    {
+        "name": "Skell",
+        "url": "https://skull-aton.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "Astral",
+        "url": "https://astralvrz.github.io/",
+        "status": "Alert Text: None\nMessage: Unexpected alert dialog detected. Performed handler \"dismiss\"\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nUnexpectedAlertOpenError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:800:5\nGeckoDriver.prototype._handleUserPrompts@chrome://remote/content/marionette/driver.sys.mjs:2962:11\n"
+    },
+    {
+        "name": "syrupnx",
+        "url": "https://syrupnx.space",
+        "status": "Valid"
+    },
+    {
+        "name": "Birthplace of the Process of Illogical Logic",
+        "url": "https://www.nickifaulk.com/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Aradia Collective for Magical Girl Comics",
+        "url": "https://aradiacollective.com",
+        "status": "Message: Browsing context has been discarded\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nNoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5\nassert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13\nassert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4\nGeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1539:15\ndespatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\n"
+    },
+    {
+        "name": "The Arcade",
+        "url": "https://articexploit.xyz",
+        "status": "Message: Browsing context has been discarded\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nNoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5\nassert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13\nassert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4\nGeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:784:15\nGeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:696:15\ndespatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\n"
+    },
+    {
+        "name": "Seirdy",
+        "url": "https://seirdy.one/",
+        "status": "Message: Navigation timed out after 300000 ms\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nTimeoutError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:740:5\nbail@chrome://remote/content/marionette/sync.sys.mjs:211:19\n"
+    },
+    {
+        "name": "bonki",
+        "url": "https://bonkiscoolsite.neocities.org/",
+        "status": "Message: Browsing context has been discarded\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nNoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5\nassert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13\nassert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4\nGeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1539:15\ndespatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\n"
+    },
+    {
+        "name": "AustinHuang.me",
+        "url": "https://austinhuang.me",
+        "status": "Valid"
+    },
+    {
+        "name": "Am Weird!",
+        "url": "https://amweird.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "BlackPirateX",
+        "url": "https://blackpiratex.com",
+        "status": "Invalid"
+    },
+    {
+        "name": "authen",
+        "url": "https://authen.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Fishy Pug Bruh",
+        "url": "https://fishypugbruh.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "bigtub",
+        "url": "https://bigtub.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "marty",
+        "url": "https://kirkmania.neocities.org/#one",
+        "status": "Valid"
+    },
+    {
+        "name": "simply.",
+        "url": "https://simply.jenett.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "WebWizard",
+        "url": "https://webwizard.ichi.city",
+        "status": "Invalid"
+    },
+    {
+        "name": "Speyll",
+        "url": "https://speyllsite.pages.dev/",
+        "status": "Valid"
+    },
+    {
+        "name": "PatchMixolydic",
+        "url": "https://patchmixolydic.com",
+        "status": "Valid"
+    },
+    {
+        "name": "maria",
+        "url": "https://maria.town",
+        "status": "Valid"
+    },
+    {
+        "name": "arandominternetuser",
+        "url": "https://arandomsite.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "fin600",
+        "url": "https://fin600.slime.place",
+        "status": "Invalid"
+    },
+    {
+        "name": "aster's asterisms!'",
+        "url": "https://asters-asterisms.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Rings around the Internet",
+        "url": "https://fanlistings.nickifaulk.com/webrings/",
+        "status": "Invalid"
+    },
+    {
+        "name": "constantine",
+        "url": "https://shenaniganery.neocities.org/home",
+        "status": "Invalid"
+    },
+    {
+        "name": "cobyzaby",
+        "url": "https://cobyzaby.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Dophelsinette.",
+        "url": "https://a-quiet-room.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "basementcommunity",
+        "url": "https://basementcommunity.com",
+        "status": "Valid"
+    },
+    {
+        "name": "matty",
+        "url": "https://transatlanticism.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "dustedpink",
+        "url": "https://dustedpink.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "kulijo",
+        "url": "https://kulijo.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "aceynk",
+        "url": "https://aceynk.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "jackdaw",
+        "url": "https://skyhold.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "bass drop",
+        "url": "https://bassdrop.club/",
+        "status": "Invalid"
+    },
+    {
+        "name": "shinto",
+        "url": "https://theabsoluterealm.com",
+        "status": "Invalid"
+    },
+    {
+        "name": "Itzz Me",
+        "url": "https://itzzcode.github.io",
+        "status": "Valid"
+    },
+    {
+        "name": "shumyumi",
+        "url": "https://themikupretenderv2.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Cryptie!",
+        "url": "https://www.cryptie.dev/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Skykristal",
+        "url": "https://skykristal.art",
+        "status": "Valid"
+    },
+    {
+        "name": "verybittericecream",
+        "url": "https://oerrorpage.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "astrid dot tech",
+        "url": "https://www.astrid.tech/",
+        "status": "Valid"
+    },
+    {
+        "name": "ari dot lt",
+        "url": "https://ari.lt/",
+        "status": "Valid"
+    },
+    {
+        "name": "Onedear",
+        "url": "https://onedear.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "\ud83c\udd82\ud83c\udd7f\ud83c\udd70\ud83c\udd72\ud83c\udd74\ud83d\udc7d\ud83c\udd71\ud83c\udd70\ud83c\udd81",
+        "url": "https://space-bar.neocities.org/",
+        "status": "Message: The element with the reference ad9cee7a-4aaf-44ff-bc0d-ae5c25506263 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nStaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:725:5\ngetKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20\ncloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:53:52\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:53:25\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\njson.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:73:30\n"
+    },
+    {
+        "name": "aRandomMenno",
+        "url": "https://aRandomMenno.github.io/",
+        "status": "Valid"
+    },
+    {
+        "name": "Vill\ud83c\udd50 Pirorum",
+        "url": "https://villapirorum.netlify.app/",
+        "status": "Message: The element with the reference e0db95d5-58de-4e7b-9303-0c73a1cc9f60 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nStaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:725:5\ngetKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20\ncloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:53:52\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:53:25\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\njson.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:73:30\n"
+    },
+    {
+        "name": "Wasp",
+        "url": "https://punkwasp.leprd.space",
+        "status": "Message: The element with the reference 455b1eac-6dc6-46e8-b0f6-7fd2939398d7 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nStaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:725:5\ngetKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20\ncloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:53:52\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:53:25\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\ncloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24\ndeserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16\njson.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:73:30\n"
+    },
+    {
+        "name": "allissa",
+        "url": "https://itzzen.net/",
+        "status": "Valid"
+    },
+    {
+        "name": "Oscar",
+        "url": "https://goofysillygoober.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "manyface",
+        "url": "https://manyface.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "patrickwu",
+        "url": "https://patrickwu.space/",
+        "status": "Valid"
+    },
+    {
+        "name": "Icelogist",
+        "url": "https://icelogist.nekoweb.org",
+        "status": "Valid"
+    },
+    {
+        "name": "exlitry.world",
+        "url": "https://exlitry.world",
+        "status": "Valid"
+    },
+    {
+        "name": "skatuya",
+        "url": "https://literallyfictional.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "andrew",
+        "url": "https://andrewslair.org",
+        "status": "Valid"
+    },
+    {
+        "name": "mossgreeneddie",
+        "url": "https://deepintheforest.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "pixeldesu",
+        "url": "https://pixelde.su/",
+        "status": "Valid"
+    },
+    {
+        "name": "varve",
+        "url": "https://www.write-on.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Yonah",
+        "url": "https://emiw.nekoweb.org",
+        "status": "Alert Text: None\nMessage: Unexpected alert dialog detected. Performed handler \"dismiss\"\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nUnexpectedAlertOpenError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:800:5\nGeckoDriver.prototype._handleUserPrompts@chrome://remote/content/marionette/driver.sys.mjs:2962:11\n"
+    },
+    {
+        "name": "blitzw.in",
+        "url": "https://www.blitzw.in/",
+        "status": "Invalid"
+    },
+    {
+        "name": "rarimena",
+        "url": "https://rarimena.neocities.org/",
+        "status": "Message: Navigation timed out after 300000 ms\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nTimeoutError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:740:5\nbail@chrome://remote/content/marionette/sync.sys.mjs:211:19\n"
+    },
+    {
+        "name": "eva.town",
+        "url": "https://eva.town/webrings",
+        "status": "Valid"
+    },
+    {
+        "name": "Maven",
+        "url": "https://maven.pages.gay",
+        "status": "Valid"
+    },
+    {
+        "name": "maebeenot",
+        "url": "https://coolbugs.win",
+        "status": "Valid"
+    },
+    {
+        "name": "marshdotcom",
+        "url": "https://marshdotcom.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "Argentnoelle",
+        "url": "https://argentnoelle.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Tommi",
+        "url": "https://tommi.space",
+        "status": "Valid"
+    },
+    {
+        "name": "poz",
+        "url": "https://jacekpoz.pl",
+        "status": "Valid"
+    },
+    {
+        "name": "agarneo",
+        "url": "https://agar.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "cascading.space",
+        "url": "https://cascading.space",
+        "status": "Valid"
+    },
+    {
+        "name": "dostoynikov",
+        "url": "https://dostoynikov.bearblog.dev",
+        "status": "Invalid"
+    },
+    {
+        "name": "triPixel",
+        "url": "https://tripixel.neocities.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "haetae",
+        "url": "https://haetae.pages.gay/",
+        "status": "Invalid"
+    },
+    {
+        "name": "tanguy",
+        "url": "https://tanguy.cyou/",
+        "status": "Invalid"
+    },
+    {
+        "name": "natalie",
+        "url": "https://nat.envs.sh/",
+        "status": "Valid"
+    },
+    {
+        "name": "iluvwerewolves",
+        "url": "https://iluvwerewolves.nekoweb.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "illuc",
+        "url": "https://home.illuc.xyz/",
+        "status": "Valid"
+    },
+    {
+        "name": "yetiuard",
+        "url": "https://yetiuard.wtf/",
+        "status": "Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//yetiuard.wtf/&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20yetiuard.wtf.\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nUnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:832:5\ncheckReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24\nonNavigation@chrome://remote/content/marionette/navigate.sys.mjs:343:39\nemit@resource://gre/modules/EventEmitter.sys.mjs:148:20\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25\n"
+    },
+    {
+        "name": "Yordi",
+        "url": "https://yordi.me/",
+        "status": "Valid"
+    },
+    {
+        "name": "Zachary Kai",
+        "url": "https://zacharykai.net",
+        "status": "Invalid"
+    },
+    {
+        "name": "MiLKYWaY",
+        "url": "https://milkyway.moe/",
+        "status": "Message: Navigation timed out after 300000 ms\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nTimeoutError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:740:5\nbail@chrome://remote/content/marionette/sync.sys.mjs:211:19\n"
+    },
+    {
+        "name": "Angelwood",
+        "url": "https://angelwood.xyz/",
+        "status": "Valid"
+    },
+    {
+        "name": "aketawi",
+        "url": "https://www.aketawi.space/",
+        "status": "Message: Browsing context has been discarded\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nNoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5\nassert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13\nassert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4\nGeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:784:15\nGeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:696:15\ndespatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+    },
+    {
+        "name": "Malingen",
+        "url": "https://lules-oddities.vercel.app/",
+        "status": "Invalid"
+    },
+    {
+        "name": "dstbnnyjp",
+        "url": "https://dustbunnybedroom.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "lars dot info",
+        "url": "https://larsfrommars.neocities.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "Kyo",
+        "url": "https://oliscrabwife.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "lina",
+        "url": "https://amalinalai.github.io/precipice/",
+        "status": "Valid"
+    },
+    {
+        "name": "Tori Hall",
+        "url": "https://toriii.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "Lydia",
+        "url": "https://lyd.city/",
+        "status": "Valid"
+    },
+    {
+        "name": "\u2639\ufe0f\u2639\ufe0f\u2639\ufe0f.ovh",
+        "url": "https://sad.ovh",
+        "status": "Invalid"
+    },
+    {
+        "name": "vulpecula",
+        "url": "https://vulpecula.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "MarkAssPandi",
+        "url": "https://markasspandi.pl",
+        "status": "Valid"
+    },
+    {
+        "name": "~tomxcd",
+        "url": "https://derg.rest",
+        "status": "Invalid"
+    },
+    {
+        "name": "Leilukin",
+        "url": "https://leilukin.com/",
+        "status": "Valid"
+    },
+    {
+        "name": "pnda.space",
+        "url": "https://pnda.space",
+        "status": "Valid"
+    },
+    {
+        "name": "zeroptr",
+        "url": "https://zptr.cc",
+        "status": "Valid"
+    },
+    {
+        "name": "Laker T.",
+        "url": "https://laker.tech/meta/others",
+        "status": "Message: Navigation timed out after 300000 ms\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nTimeoutError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:740:5\nbail@chrome://remote/content/marionette/sync.sys.mjs:211:19\n"
+    },
+    {
+        "name": "Sertimus",
+        "url": "https://sertimus.xyz",
+        "status": "Valid"
+    },
+    {
+        "name": "guavajelly",
+        "url": "https://bigfatgorilla.com",
+        "status": "Invalid"
+    },
+    {
+        "name": "Dazhak",
+        "url": "https://dogspit.nekoweb.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "jay",
+        "url": "https://firefairy.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Lyrenhex",
+        "url": "https://lyrenhex.com",
+        "status": "Valid"
+    },
+    {
+        "name": "cicadastatic",
+        "url": "https://cicadastatic.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "u1trav101et",
+        "url": "https://u1trav101.net/",
+        "status": "Invalid"
+    },
+    {
+        "name": "RomOS",
+        "url": "https://mxbo.neocities.org",
+        "status": "Invalid"
+    },
+    {
+        "name": "Cloudhiker",
+        "url": "https://cloudhiker.neocities.org",
+        "status": "Valid"
+    },
+    {
+        "name": "evil benny",
+        "url": "https://lopster.neocities.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "bee :3",
+        "url": "https://bee.nekoweb.org/",
+        "status": "Invalid"
+    },
+    {
+        "name": "remblanc",
+        "url": "https://remblanc.nekoweb.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "circular",
+        "url": "https://circulars.dev/",
+        "status": "Valid"
+    },
+    {
+        "name": "xv1",
+        "url": "https://xv1.neocities.org/",
+        "status": "Valid"
+    },
+    {
+        "name": "Strix!",
+        "url": "https://mormoroi.com/",
+        "status": "Message: Browsing context has been discarded\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5\nNoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5\nassert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13\nassert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4\nGeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:784:15\nGeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:696:15\ndespatch@chrome://remote/content/marionette/server.sys.mjs:318:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:289:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:263:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+    },
+    {
+        "name": "gala",
+        "url": "https://gala-kyklos.neocities.org",
+        "status": "Valid"
+    }
+]

@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException, ElementNotInteractableException
 from datetime import datetime
 import os
+import sys
 import json
 import multiprocessing
 
@@ -112,7 +113,7 @@ def recursive_crawl(driver, current_url, name, visited):
 	links = find_links(driver)
 
 	priority_words = ["webring", "ring", "link"]
-	ignored_words = ["blog"]
+	ignored_words = ["blog", "updates", "talk", "thought", "note", "comic"]
 
 	priority_links = [link for link in links if any(word in link for word in priority_words)]
 	normal_links = [
@@ -166,4 +167,5 @@ def main():
 			saver_process.join()
 
 if __name__ == "__main__":
-	main()
+    sys.setrecursionlimit(5)
+    main()
